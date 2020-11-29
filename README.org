@@ -1,0 +1,4 @@
+#+TITLE: README
+#+AUTHOR: Dominic Adamson
+
+This is just a basic project using stack that I write the code I use to teach myself Haskell

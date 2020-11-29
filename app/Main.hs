@@ -3,4 +3,4 @@ module Main where
 import Lib
 
 main :: IO ()
-main = someFunc
+main = do putStrLn $ show $ reverse' [1..5]
